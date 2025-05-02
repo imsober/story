@@ -184,10 +184,10 @@ I love trekking. I went to some solo trekking and some with friends to the remot
   
 
 I always love playing basketball, chess and snooker  
-…
+
 | | | |
 |:-------------------------:|:-------------------------:|:-------------------------:|
-|<img width="1604" alt="screen shot 2017-08-07 at 12 18 15 pm" src="https://user-images.githubusercontent.com/297678/29892310-03e92256-8d83-11e7-9b58-986dcb6f702e.png">  blah |  <img width="1604" alt="screen shot 2017-08-07 at 12 18 15 pm" src="https://user-images.githubusercontent.com/297678/29892310-03e92256-8d83-11e7-9b58-986dcb6f702e.png">|<img width="1604" alt="screen shot 2017-08-07 at 12 18 15 pm" src="https://user-images.githubusercontent.com/297678/29892310-03e92256-8d83-11e7-9b58-986dcb6f702e.png">|
+|<img width="1604" alt="Basketball" src="./Basketball1.jpg"> |  <img width="1604" alt="Medals" src="./Medels.jpg">|<img width="1604" alt="Snooker" src="./Snooker.jpeg">|
 
   
 
