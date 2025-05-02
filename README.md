@@ -210,7 +210,7 @@ I don’t have the donation receipt.. but like to present you these pictures as 
 
 | | | |
 |:-------------------------:|:-------------------------:|:-------------------------:|
-|<img width="1604" alt="Samaanta Invitation" src="./samaanta-invite.jpg">|<img width="1604" alt="Art3" src="./art3.jpg">  blah |  <img width="1604" alt="Art4" src="./art4.jpg">|<img width="1604" alt="Samaanta Post" src="./samaanta.png">|
+|<img width="1604" alt="Samaanta Invitation" src="./samaanta-invite.jpg">|<img width="1604" alt="Art3" src="./art3.jpg"> |  <img width="1604" alt="Art4" src="./art4.jpg">|<img width="1604" alt="Samaanta Post" src="./samaanta.png">|
 
 **NRNA Canada**
 
