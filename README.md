@@ -1,4 +1,4 @@
-**My Story**
+#### My Story
 
   
 
@@ -170,7 +170,6 @@ It takes years to build and seconds to destroy it. But I will continue to build 
 
 **Moments I cherish**
 
-Moments I cherish
 
   
 
@@ -181,9 +180,12 @@ I love trekking. I went to some solo trekking and some with friends to the remot
 |:-------------------------:|:-------------------------:|:-------------------------:|
 |<img width="1604" alt="Bhimtang" src="./bhimtang2.jpg"> |  <img width="1604" alt="Bhimtang" src="./bhimtang.jpg">|<img width="1604" alt="Kori" src="./kori.jpg">|
 
-  
+ 
 
-I always love playing basketball, chess and snooker  
+
+
+I always love playing basketball, chess and snooker:
+
 
 | | | |
 |:-------------------------:|:-------------------------:|:-------------------------:|
