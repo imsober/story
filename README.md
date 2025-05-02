@@ -210,8 +210,7 @@ I don’t have the donation receipt.. but like to present you these pictures as 
 
 | | | |
 |:-------------------------:|:-------------------------:|:-------------------------:|
-|<img width="1604" alt="screen shot 2017-08-07 at 12 18 15 pm" src="https://user-images.githubusercontent.com/297678/29892310-03e92256-8d83-11e7-9b58-986dcb6f702e.png">  blah |  <img width="1604" alt="screen shot 2017-08-07 at 12 18 15 pm" src="https://user-images.githubusercontent.com/297678/29892310-03e92256-8d83-11e7-9b58-986dcb6f702e.png">|<img width="1604" alt="screen shot 2017-08-07 at 12 18 15 pm" src="https://user-images.githubusercontent.com/297678/29892310-03e92256-8d83-11e7-9b58-986dcb6f702e.png">|
-  
+|<img width="1604" alt="Samaanta Invitation" src="./samaanta-invite.jpg">|<img width="1604" alt="Art3" src="./art3.jpg">  blah |  <img width="1604" alt="Art4" src="./art4.jpg">|<img width="1604" alt="Samaanta Post" src="./samaanta.png">|
 
 **NRNA Canada**
 
