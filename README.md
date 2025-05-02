@@ -189,7 +189,7 @@ I always love playing basketball, chess and snooker:
 
 | | | |
 |:-------------------------:|:-------------------------:|:-------------------------:|
-|<img width="1604" alt="Basketball" src="./Basketball1.jpg"> |  <img width="1604" alt="Medals" src="./Medels.jpg">|<img width="1604" alt="Snooker" src="./Snooker.jpeg">|
+|<img width="1604" alt="Basketball" src="./Basketball1.jpg"> | <img width="1604" alt="Snooker" src="./Snooker.jpeg">| <img width="1604" alt="Medals" src="./Medels.jpg">|
 
   
 
